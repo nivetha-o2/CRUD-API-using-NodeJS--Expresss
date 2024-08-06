@@ -13,7 +13,6 @@ The purpose of this project is to provide a foundational understanding of how to
 - Read existing resources
 - Update an existing resource
 - Delete a resource
-- Basic error handling and validation
 
 ## Technologies Used
 
