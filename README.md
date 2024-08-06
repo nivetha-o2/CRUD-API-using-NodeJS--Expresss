@@ -1,8 +1,5 @@
-Here's a sample README file that explains the core concepts of your project on building a CRUD API with Node.js and Express using the REST architecture:
 
----
-
-# CRUD API with Node.js and Express
+#  Building CRUD API with Node.js and Express
 
 This project demonstrates a simple CRUD (Create, Read, Update, Delete) API built using Node.js and Express. The API follows REST architecture principles and is designed to handle basic CRUD operations for a sample resource.
 
